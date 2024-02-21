@@ -1,0 +1,28 @@
+{
+  "name": "com.avaturn.webview",
+  "version": "2.0.0",
+  "displayName": "Avaturn.WebView",
+  "description": "Unity plugin to turn people into realistic 3D avatars",
+  "keywords": [
+    "Avaturn",
+    "Avatar",
+    "Webview"
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2",
+    "com.unity.cloud.gltfast": "5.2.0",
+	"com.unity.cinemachine": "2.6.17"
+  },
+  "documentationUrl": "https://docs.avaturn.me/docs/integration/unity/unity_tutorial/",
+  "author": {
+    "name": "Avaturn",
+    "url": "https://avaturn.me/"
+  },
+  "samples": [
+    {
+      "displayName": "WebGL and Mobile",
+      "description": "This repo contains examples of using Avaturn web view in Unity for WebGL and Mobile platforms.",
+      "path": "Samples~"
+    }
+  ]
+}

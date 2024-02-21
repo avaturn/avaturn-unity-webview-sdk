@@ -1,0 +1,17 @@
+{
+    "name": "Avaturn.Core.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "UniWebView-CSharp",
+        "glTFast"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
